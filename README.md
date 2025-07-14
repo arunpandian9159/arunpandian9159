@@ -15,7 +15,7 @@ skills:
   - Code Wizard 🧙‍♂️
 
 tools:
-  frontend: ["React ⚛️", "Next.js 🚀"]
+  frontend: ["HTML5", "CSS3", "React ⚛️", "Next.js 🚀"]
   backend: ["Node.js 🟢", "Express ⚡", "MongoDB 🍃"]
   languages: ["JavaScript 💛", "Python 🐍"]
 
