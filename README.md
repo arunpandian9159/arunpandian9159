@@ -1,29 +1,136 @@
-<h1 align="center">Hi 👋, I'm Arunpandian</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunpandian9159&label=Profile%20views&color=0e75b6&style=flat" alt="arunpandian9159" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunpandian9159" alt="arunpandian9159" /></a> </p>
 
-- 🌱 I’m currently learning **AI agents, Langchain.**
+## 🧠 About Me
 
-- 👨‍💻 All of my projects are available at [https://arunpandian-cse.vercel.app/](https://arunpandian-cse.vercel.app/)
 
-- 💬 Ask me about **react, python, etc.,.**
+```yaml
+name: Arunpandian C
+location: "Coding from the matrix 🌐"
+current_status: "Turning coffee into code ☕➡️💻"
 
-- 📫 How to reach me **arunpandiancse25@gmail.com**
+skills:
+- Frontend Architect 🏗️
+- Backend Warrior ⚔️
+- Code Wizard 🧙‍♂️
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arunpandian-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunpandian-c" height="30" width="40" /></a>
-<a href="https://instagram.com/_lucifer_arun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lucifer_arun_" height="30" width="40" /></a>
-</p>
+tools:
+  frontend: ["React ⚛️", "Next.js 🚀"]
+  frontend: ["HTML5", "CSS3", "React ⚛️", "Next.js 🚀"]
+backend: ["Node.js 🟢", "Express ⚡", "MongoDB 🍃"]
+languages: ["JavaScript 💛", "Python 🐍"]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+interests:
+- "Building pixel-perfect UIs ✨"
+- "Automating the boring stuff 🤖"
+- "Learning AI and ML 🧠"
+- "Contributing to open source 🌍"
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunpandian9159&show_icons=true&locale=en&layout=compact" alt="arunpandian9159" /></p>
+fun_facts:
+- "I debug with console.log() and I'm proud of it! 🐛"
+- "My code works on my machine... always! 💻"
+- "I speak fluent JSON and occasional human 🗣️"
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunpandian9159&show_icons=true&locale=en" alt="arunpandian9159" /></p>
+## 🛠️ Tech Arsenal
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunpandian9159&" alt="arunpandian9159" /></p>
+<div align="center">
+ <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,mongodb,git,github,vscode&perline=8&theme=dark" />
+</div>
+
+
+
+## 📊 GitHub Analytics
+
+
+<div align="center">
+ <table>
+   <tr>
+     <td width="50%">
+       <img src="https://github-readme-stats.vercel.app/api?username=arunpandian9159&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30A3DC&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9" />
+     </td>
+     <td width="50%">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunpandian9159&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&border_color=30A3DC&title_color=58A6FF&text_color=C9D1D9" />
+     </td>
+   </tr>
+ </table>
+</div>
+
+<br>
+
+
+<br>
+
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=arunpandian9159&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15&row=1&column=6" />
+</div>
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 📈 Contribution Heatmap
+
+<div align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunpandian9159&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=30A3DC&point=FF6B6B&area=true&hide_border=false&border_color=30A3DC" />
+</div>
+
+
+## 🎨 Skills Matrix
+
+
+<div align="center">
+
+```text
+🟩 Python       ████████████████████▓▓▓▓▓   80% 
+🟨 React        ███████████████████▓▓▓▓▓▓   75% 
+🟪 Node.js      ██████████████████▓▓▓▓▓▓▓   70% 
+```
+
+</div>
+
+
+
+
+
+<br>
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/Arunpandian-C/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://arun-portfolio-plum.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:www.arunpandiancse25@gmail.com)
+
+</div>
+
+
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br><br>
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
+
+<br><br>
+
+
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=arunpandian9159&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<br><br>
+
+
+</div>
