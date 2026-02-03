@@ -44,7 +44,9 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunpandian9159&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=30A3DC&point=FF6B6B&area=true&hide_border=false&border_color=30A3DC" />
 </div>
 
-<figure><embed src="https://wakatime.com/share/@arunpandiancse25/5e125011-1d53-4ddd-9471-19730e806a26.svg"></embed></figure>
+<div align="center">
+<img src="https://wakatime.com/share/@arunpandiancse25/5e125011-1d53-4ddd-9471-19730e806a26.svg" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
