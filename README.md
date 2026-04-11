@@ -5,7 +5,7 @@
 🌱 I’m currently learning langchain<br>
 💬 Ask me about Reactjs & ai<br>
 📫 How to reach me arunpandian25@gmail.com<br>
-📄 MY portfolio in [[arunpandian.fun](https://arunpandian.fun)]
+📄 MY portfolio in [arunpandian.fun](https://arunpandian.fun)
 
 
 ## 🌐 Socials:
